@@ -1,6 +1,6 @@
 ### Hi there, I'm Aufar Laksana 👋
 
-I'm Software Engineer from Indonesia 🇮🇩 
+I'm a Software Engineer from Indonesia 🇮🇩 
 
 I'm currently based in London, UK 🇬🇧 
 
