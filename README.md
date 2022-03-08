@@ -4,8 +4,13 @@ I'm a software engineer currently based in London, UK 🇬🇧
 
 I'm Indonesian but I've lived in 5 (and counting!) different countries.
 
-I graduated from **Imperial College London** in 2019 with a MEng. Electronic & Information Engineering. Think of the course as an amalgamation of electronics and computer science.
 
+#### Education
+I graduated from **Imperial College London** in 2019 with a [MEng. Electronic & Information Engineering](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electronic-information-meng/). This course was a combination of EE/CS, and I was able to take modules in both the Department of Electrical and Electronic Engineering and the Department of Computing.
+
+My Masters project involved Robotics and Augmented Reality. I developed an eye-tracking based navigation system for a powered wheel chair using the Microsoft Hololens, with built in object (person) detection and collision avoidance. [link](https://github.com/alaksana96/FinalYearProject)
+
+#### Work
 I previously worked at **JP Morgan**. I did some stuff in E-Trading and Market Data.
 
 I currently work at a startup called **Signal AI**. I'm working on building NLP systems to extract information out of data for companies to gain insights.
