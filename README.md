@@ -3,7 +3,7 @@
 I'm a software engineer currently based in London, UK 🇬🇧 
 
 I'm Indonesian but I've lived in 5 (and counting!) different countries.
-
+ 
 #### Education
 I graduated from **Imperial College London** in 2019 with a [MEng. Electronic & Information Engineering](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electronic-information-meng/). This course was a combination of EE/CS, and I was able to take modules in both the Department of Electrical and Electronic Engineering and the Department of Computing.
 
