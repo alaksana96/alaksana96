@@ -1,6 +1,6 @@
 ### Hi, I'm Aufar Laksana 👋
 
-I'm a software engineer currently based in London, UK 🇬🇧 
+I'm a Software Engineer currently based in London, UK 🇬🇧 
 
 I'm Indonesian but I've lived in 5 (and counting!) different countries.
  
@@ -15,4 +15,6 @@ I previously worked at **JP Morgan**. I did some stuff in E-Trading and Market D
 I currently work at a startup called **Signal AI**. I'm working on building NLP systems to extract information out of data for companies to gain insights.
 
 #### Interests
-My main interests are in NLP and Information Retrieval. I also enjoy working on Robotics and Computer Vision, especially autonmous (flying) vehicles.
+My main tech interests are in NLP and Information Retrieval. I also enjoy working on Robotics and Computer Vision, especially autonomous (flying) vehicles.
+
+I'm very interested in the SEA Tech and Startup Scene, and I try to keep up to date with all the new developments back home. I'm always happy to jump on a Zoom Call or go for a Coffee Chat, so feel free to reach out!
