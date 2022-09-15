@@ -5,9 +5,9 @@ I'm a Software Engineer currently based in London, UK 🇬🇧
 I'm Indonesian but I've lived in 5 (and counting!) different countries.
 
 #### Work
-I previously worked at **JP Morgan**. I did some stuff in E-Trading and Market Data.
-
 I currently work at a startup called **Signal AI**. I'm working on building NLP systems to extract information out of data for companies to gain insights.
+
+I previously worked at **JP Morgan**. I did some stuff in E-Trading and Market Data.
 
 #### Interests
 My main tech interests are in NLP and Information Retrieval. I also enjoy working on Robotics and Computer Vision, especially autonomous (flying) vehicles.
