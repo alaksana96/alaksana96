@@ -17,4 +17,4 @@ I currently work at a startup called **Signal AI**. I'm working on building NLP 
 #### Interests
 My main tech interests are in NLP and Information Retrieval. I also enjoy working on Robotics and Computer Vision, especially autonomous (flying) vehicles.
 
-I'm very interested in the SEA Tech and Startup Scene, and I try to keep up to date with all the new developments back home. I'm always happy to jump on a Zoom Call or go for a Coffee Chat, so feel free to reach out!
+**I'm very interested in the SEA Tech and Startup Scene, and I try to keep up to date with all the new developments back home. I'm always happy to jump on a Zoom Call or go for a Coffee Chat, so feel free to reach out!**
