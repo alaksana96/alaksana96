@@ -12,4 +12,4 @@ On the side, I work on [**NotarEase**](https://notarease.com). We are building a
 My main tech interests are in NLP and Information Retrieval. I'm especially fond of solving problems where machine learning models suffer from massive class imbalances. 
 
 #### Education
-I graduated from **Imperial College London** in 2019 with a [MEng. Electronic & Information Engineering](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electronic-information-meng/). This course was a combination of EE/CS, and I was able to take modules in both the Department of Electrical and Electronic Engineering and the Department of Computing.
+I graduated from **Imperial College London** in 2019 with a **MEng. Electronic & Information Engineering**. This course was a combination of EE/CS, and I was able to take modules in both the Department of Electrical and Electronic Engineering and the Department of Computing.
